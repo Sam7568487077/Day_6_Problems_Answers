@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Stop_Watch">
+  <component name="RunManager" selected="Application.Perfect_Number">
     <configuration name="Coupon_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coupon_Code" />
       <module name="Day_6_Problems_AnswersJ" />
@@ -59,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Perfect_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perfect_Number" />
+      <module name="Day_6_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stop_Watch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stop_Watch" />
       <module name="Day_6_Problems_AnswersJ" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Perfect_Number" />
         <item itemvalue="Application.Stop_Watch" />
         <item itemvalue="Application.Coupon_Code" />
         <item itemvalue="Application.Main" />
