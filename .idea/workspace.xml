@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="686484c2-f9be-48ea-97cf-894bcd71c1cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coupon_Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coupon_Code.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse_Number">
+  <component name="RunManager" selected="Application.Coupon_Code">
     <configuration name="Coupon_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coupon_Code" />
       <module name="Day_6_Problems_AnswersJ" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Coupon_Code" />
+        <item itemvalue="Application.Stop_Watch" />
         <item itemvalue="Application.Reverse_Number" />
         <item itemvalue="Application.Prime_Number" />
         <item itemvalue="Application.Perfect_Number" />
-        <item itemvalue="Application.Stop_Watch" />
-        <item itemvalue="Application.Coupon_Code" />
       </list>
     </recent_temporary>
   </component>
