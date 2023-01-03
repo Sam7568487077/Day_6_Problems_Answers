@@ -37,16 +37,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Prime_Number">
+  <component name="RunManager" selected="Application.Reverse_Number">
     <configuration name="Coupon_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coupon_Code" />
-      <module name="Day_6_Problems_AnswersJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Day_6_Problems_AnswersJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_Number" />
+      <module name="Day_6_Problems_AnswersJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stop_Watch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stop_Watch" />
       <module name="Day_6_Problems_AnswersJ" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Number" />
         <item itemvalue="Application.Prime_Number" />
         <item itemvalue="Application.Perfect_Number" />
         <item itemvalue="Application.Stop_Watch" />
         <item itemvalue="Application.Coupon_Code" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
